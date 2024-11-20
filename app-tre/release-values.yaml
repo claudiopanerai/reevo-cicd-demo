@@ -1,5 +1,5 @@
 appName: python-webserver # CHANGEME! lettere minuscole e trattini, no spazi!!
-developerName: "Davide"   # Il tuo nome! o di qualcuno che ti è simpatico
+developerName: "Claudio"   # Il tuo nome! o di qualcuno che ti è simpatico
 serverPort: 7000          # A piacere > 1000
 
 #    Una volta completata la pipeline di CI/CD, potrai raggiungere il tuo sito web navigando su
